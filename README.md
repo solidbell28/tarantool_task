@@ -1,5 +1,5 @@
 # Tarantool Task
-Solution of my Tarantool Lab case
+Solution of my Tarantool Lab case.
 
 Problem description: the input to the program is an array of integers reflecting the height of the land at this point. All the space where water could linger is filled with water. The program should output the number of points filled with water.
 
