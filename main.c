@@ -11,7 +11,7 @@ enum {
  * Returns the answer to the task
  *
  * The idea of solution is to count for each height (from 1 to maximum) the number of blocks
- * between the leftmost and the rightmost point with the curtain height and then to subtract
+ * between the leftmost and the rightmost points with the curtain height and then to subtract
  * the overall amount of blocks of land because they were not taken into account during
  * the previous calculations
  */
